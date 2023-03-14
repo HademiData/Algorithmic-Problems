@@ -1,11 +1,11 @@
-The dining philosophers problem is a classic synchronization problem that
+'''The dining philosophers problem is a classic synchronization problem that
 involves a group of philosophers sitting around a table, each with a plate of
 spaghetti and a fork on either side of the plate. There are as many forks as there are 
 philosophers, and each philosopher needs two forks to eat. The problem is to create a
 program that allows each philosopher to take the forks and eat without causing a deadlock.
 
 Here is a sample solution in Python using the threading module
-
+'''
 
 import threading
 import time
