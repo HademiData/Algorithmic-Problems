@@ -3,7 +3,6 @@
 This repository contains a collection of classic computer science problems solved using Python. It covers various fundamental topics such as dynamic programming, backtracking, greedy algorithms, and algorithm design techniques.
 
 Each script is a self-contained Python solution to a well-known problem, making this repository a helpful resource for students, developers, and anyone preparing for technical interviews or revising core algorithmic concepts.
-
 ## 📂 Problem Categories
 
 - **Dynamic Programming**
