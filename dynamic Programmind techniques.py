@@ -6,7 +6,6 @@ Given two strings s1 and s2, find the minimum number of operations required to c
 s1 to s2, where each operation is either an insertion, deletion, or substitution of a character.
 '''
 
-
 def edit_distance(s1, s2):
     m, n = len(s1), len(s2)
     dp = [[0] * (n+1) for _ in range(m+1)]
